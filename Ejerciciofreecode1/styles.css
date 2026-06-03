@@ -1,0 +1,33 @@
+        h1,
+        h2,
+        p {
+            text-align: center;
+            color: white;
+        }
+
+        body {
+            background-color: rgb(255, 255, 255);
+        }
+
+        #menu {
+            width: 80%;
+            margin: auto auto auto auto;
+            background-color: black;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 500px;
+        }
+
+        .item p {
+            display: inline-block;
+        }
+
+        .flavor {
+            text-align: left;
+            width: 75%;
+        }
+
+        .price {
+            text-align: right;
+            width: 25%;
+        }
